@@ -1,7 +1,7 @@
 # ClassListing1
 OOP in Python, creating a list of  non-credit and for-credit courses
 
-This code was created to fulfill the requirements of De Anza course CIS 41A (Python for Programmers), Lab 4. Lab assignment is in the folder. 
+This code was created to fulfill the requirements of De Anza course CIS 41A (Python for Programmers), Lab 4. Lab assignment is in the folder (Lab4.docx). 
 
 Functionality:
 1. Prompt user for the number of courses to be entered.
